@@ -62,16 +62,16 @@ Includes:
 # 📷 Dashboard Screenshots
 
 ## 🏠 Home Page
-![Home](Dashboard%20Screenshots/home.png)
+
 
 ## 📈 Overview Dashboard
-![Overview](Dashboard%20Screenshots/overview.png)
+
 
 ## 🎯 Targets & Ratings Dashboard
-![Targets](Dashboard%20Screenshots/targets-ratings.png)
+
 
 ## 👥 Passenger Analysis Dashboard
-![Passenger Analysis](Dashboard%20Screenshots/passenger-analysis.png)
+
 
 ---
 
